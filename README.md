@@ -3,7 +3,7 @@
 **Student:** Navdeep Doriya  
 **Roll Number:** M26MER005  
 **Degree Program:** M.Tech in Robotics  
-**Department:** Center for Robotics and Mobility / Department of Mechanical Engineering  
+**Department:** Department of Mechanical Engineering  
 **Institution:** Indian Institute of Technology Jodhpur, Rajasthan, India  
 **Course:** M.Tech Individual Project (Mid-Term Progress Submission)  
 
